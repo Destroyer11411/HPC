@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<omp.h>
-#define scanf_s scanf
+
 void main() {
     int r,i,ans=0;
     printf("Enter number of sections : ");
